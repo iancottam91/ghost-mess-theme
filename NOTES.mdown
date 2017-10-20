@@ -1,0 +1,23 @@
+- Create a custom theme:
+
+- should i extend the casper theme or create a new one?
+- notes on install: https://github.com/TryGhost/Ghost/tree/stable
+- notes on deploy: http://support.ghost.org/deploying-ghost/
+
+- Data:
+
+- how to back up DB? 
+- to move content, i should just need to install ghost, set up db and theme
+
+*** Check how to deploy to AWS ***
+
+- editor template for ease of creating recipes - maybe a ck-editor widget?
+5 hard
+- recipe index
+2 hard - order and styling
+- categories widget
+1
+- posts by month
+1
+- slider?!
+2
